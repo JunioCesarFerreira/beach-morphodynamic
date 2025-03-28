@@ -83,4 +83,7 @@ A resolução numérica dessas equações é desafiadora, exigindo esquemas est�
 
 Esse modelo fornece um quadro teórico poderoso para entender a dinâmica das praias e sua evolução sob influência das ondas, correntes e marés.
 
+Simulações e mais delhes em [src](./src/).
+
 ---
+
